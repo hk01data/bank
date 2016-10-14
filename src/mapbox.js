@@ -17,7 +17,7 @@
 
     var map = L.map('map', {
         center: [22.337533, 114.17475],
-        zoom: 15,
+        zoom: 13,
         maxBounds: ([[22.176455, 113.817209],[22.560632, 114.451706]]),
         layers: [light, branch, branch_rich, rich, service, atm]
     });
@@ -82,7 +82,7 @@
       var layer = e.target;
       var latLngs  = [e.target.getLatLng()];
       var markerBounds = L.latLngBounds(latLngs);
-      map.fitBounds(markerBounds, {maxZoom: 18});
+      map.fitBounds(markerBounds, {maxZoom: 16});
       info.update(layer.feature.properties);
     }
 
