@@ -82,7 +82,7 @@
       var layer = e.target;
       var latLngs  = [e.target.getLatLng()];
       var markerBounds = L.latLngBounds(latLngs);
-      map.fitBounds(markerBounds, {maxZoom: 16});
+      map.fitBounds(markerBounds, {maxZoom: 18});
       info.update(layer.feature.properties);
     }
 
