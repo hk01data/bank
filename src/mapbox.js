@@ -17,7 +17,7 @@
 
     var map = L.map('map', {
         center: [22.337533, 114.17475],
-        zoom: 13,
+        zoom: 15,
         maxBounds: ([[22.176455, 113.817209],[22.560632, 114.451706]]),
         layers: [light, branch, branch_rich, rich, service, atm]
     });
