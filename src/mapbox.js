@@ -70,7 +70,7 @@
         if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
             // layer.bringToFront();
         }
-    //     info.update(layer.feature.properties);
+         info.update(layer.feature.properties);
     }
 
 
