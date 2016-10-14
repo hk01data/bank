@@ -1565,7 +1565,7 @@ var branch_list = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.138753,22.338473 ]
+       "coordinates":  [ 114.138799, 22.338313 ]
     },
     "properties": {
     "ID":885,
@@ -2765,7 +2765,7 @@ var branch_list = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.138818,22.338584 ]
+       "coordinates":  [ 114.138630,22.338392 ]
     },
     "properties": {
     "ID":1066,

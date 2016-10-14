@@ -740,7 +740,7 @@ var branch_rich_list = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.138779,22.338456 ]
+       "coordinates":  [ 114.138531, 22.338419 ]
     },
     "properties": {
     "ID":474,
@@ -1130,7 +1130,7 @@ var branch_rich_list = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.1399,22.33751 ]
+       "coordinates":  [ 114.138815,22.337927 ]
     },
     "properties": {
     "ID":614,
