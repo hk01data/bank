@@ -27,9 +27,9 @@
     };
 
     var overlayMaps = {
-        "分行": branch,
-        "分行／特定收入": branch_rich,
-        "特定收入": rich,
+        "一般分行": branch,
+        "一般分行／服務特選客戶": branch_rich,
+        "只服務特選客戶": rich,
         "服務中心": service,
         "自動櫃員機": atm
     };

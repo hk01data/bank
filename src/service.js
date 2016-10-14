@@ -8,6 +8,7 @@ var service_list = {
        "coordinates":  [ 114.16445,22.27758 ]
     },
     "properties": {
+    "ID":578,
     "銀行牌子":"東亞銀行",
     "18區":"中西區",
     "sub區":"中上環",
@@ -22,6 +23,7 @@ var service_list = {
        "coordinates":  [ 114.202999,22.331241 ]
     },
     "properties": {
+    "ID":582,
     "銀行牌子":"東亞銀行",
     "18區":"九龍城區",
     "sub區":"九龍城",
@@ -36,6 +38,7 @@ var service_list = {
        "coordinates":  [ 114.004687,22.448281 ]
     },
     "properties": {
+    "ID":663,
     "銀行牌子":"東亞銀行",
     "18區":"元朗區",
     "sub區":"天水圍",
@@ -50,6 +53,7 @@ var service_list = {
        "coordinates":  [ 114.225464,22.310726 ]
     },
     "properties": {
+    "ID":773,
     "銀行牌子":"恆生銀行",
     "18區":"觀塘區",
     "sub區":"觀塘",
@@ -64,6 +68,7 @@ var service_list = {
        "coordinates":  [ 114.191164,22.383234 ]
     },
     "properties": {
+    "ID":862,
     "銀行牌子":"恆生銀行",
     "18區":"沙田區",
     "sub區":"沙田",
@@ -78,6 +83,7 @@ var service_list = {
        "coordinates":  [ 114.184057,22.280209 ]
     },
     "properties": {
+    "ID":900,
     "銀行牌子":"恆生銀行",
     "18區":"灣仔區",
     "sub區":"銅鑼灣",
@@ -92,6 +98,7 @@ var service_list = {
        "coordinates":  [ 114.157926,22.282614 ]
     },
     "properties": {
+    "ID":972,
     "銀行牌子":"恆生銀行",
     "18區":"中西區",
     "sub區":"中上環",
@@ -106,6 +113,7 @@ var service_list = {
        "coordinates":  [ 114.197573,22.373487 ]
     },
     "properties": {
+    "ID":1327,
     "銀行牌子":"中國銀行",
     "18區":"沙田區",
     "sub區":"沙田",
@@ -120,6 +128,7 @@ var service_list = {
        "coordinates":  [ 114.111817,22.3754075 ]
     },
     "properties": {
+    "ID":1444,
     "銀行牌子":"中國銀行",
     "18區":"荃灣區",
     "sub區":"",
@@ -134,6 +143,7 @@ var service_list = {
        "coordinates":  [ 114.0166,22.29554 ]
     },
     "properties": {
+    "ID":1539,
     "銀行牌子":"中國銀行",
     "18區":"離島區",
     "sub區":"",
