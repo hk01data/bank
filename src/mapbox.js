@@ -94,11 +94,11 @@
         }
     });
 
-    var branch_icon = new LeafIcon({iconUrl: 'https://rawgit.com/hk01data/bank-data/master/icon/branch.png',iconSize:[30, 30]}),
-        branch_rich_icon = new LeafIcon({iconUrl: 'https://rawgit.com/hk01data/bank-data/master/icon/branch_rich.png',iconSize:[30, 30]}),
-        rich_icon = new LeafIcon({iconUrl: 'https://rawgit.com/hk01data/bank-data/master/icon/rich.png',iconSize:[30, 30]}),
-        service_icon = new LeafIcon({iconUrl: 'https://rawgit.com/hk01data/bank-data/master/icon/service.png',iconSize:[20, 20]}),
-        atm_icon = new LeafIcon({iconUrl: 'https://rawgit.com/hk01data/bank-data/master/icon/atm.png',iconSize:[20, 20]});
+    var branch_icon = new LeafIcon({iconUrl: 'icon/branch.png',iconSize:[30, 30]}),
+        branch_rich_icon = new LeafIcon({iconUrl: 'icon/branch_rich.png',iconSize:[30, 30]}),
+        rich_icon = new LeafIcon({iconUrl: 'icon/rich.png',iconSize:[30, 30]}),
+        service_icon = new LeafIcon({iconUrl: 'icon/service.png',iconSize:[20, 20]}),
+        atm_icon = new LeafIcon({iconUrl: 'icon/atm.png',iconSize:[20, 20]});
 
 
     geojson = L.geoJson(branch_list, {
