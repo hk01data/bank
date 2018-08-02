@@ -9,7 +9,7 @@
         'Imagery © <a href="http://mapbox.com">Mapbox</a>',
       mbUrl = 'https://a.tile.openstreetmap.org/${z}/${x}/${y}.png';
 
-      var light   = L.tileLayer(mbUrl, {id: 'cit2j2opr00082xo5rj0k2o13', 
+      var light   = L.tileLayer(mbUrl, {
                         maxZoom: 18,
                         minZoom: 11,
                         attribution: mbAttr});
