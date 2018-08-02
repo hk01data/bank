@@ -7,7 +7,7 @@
       var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
         '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
         'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-      mbUrl = 'https://api.mapbox.com/styles/v1/bigdata01/{id}/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYmlnZGF0YTAxIiwiYSI6ImNpdDJnand6dzB0NmgyeWtoaXo3cnBtMHoifQ.da-eM-IDQOlkmfO4mN63zQ';
+      mbUrl = 'https://a.tile.openstreetmap.org/${z}/${x}/${y}.png';
 
       var light   = L.tileLayer(mbUrl, {id: 'cit2j2opr00082xo5rj0k2o13', 
                         maxZoom: 18,
